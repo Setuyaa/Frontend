@@ -1,1 +1,1 @@
-Резюме можно посмотреть в Файле FrontendResume.pdf ✨
+Резюме можно посмотреть в файле FrontendResume.pdf ✨
